@@ -1,0 +1,6 @@
+@BackendAbara_HostAddress = http://localhost:5112
+
+GET {{BackendAbara_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
